@@ -1,0 +1,2 @@
+# Modern Component Architecture
+Ada banyak permasalahan sulit untuk mengimplementasikan CSS. maka dari itu, ada beberapa solusi berupa CSS Preprocessor, CSS Framework, styled-components, Component Library, dll.
